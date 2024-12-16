@@ -1,6 +1,6 @@
 # Quantitative Analysis of the ‘Deponency’ in Biblical Greek
 
-This repository contains the input data, scripts and Suppl. Tables and Figures from a study that employs distributional linguistics, a newly introduced technique at multiple Dutch and Flemish research groups, to examine the controversial concept of verbal ‘deponency’ in Biblical Greek. 
+This repository contains the input data, scripts and Suppl. Tables and Figures from a study that employs distributional linguistics, a newly introduced technique to examine the controversial concept of verbal ‘deponency’ in Biblical Greek. 
 
 Renaissance grammarians introduced ‘deponency’ as an additional classifier to the traditional voice paradigm (active, middle, passive) to account for verbs exhibiting middle-passive morphology with active interpretation. 
 
