@@ -29,13 +29,15 @@ GLoVe operates by first constructing a word co-occurrence matrix, where each ent
 
 Mathematically, the GLoVe model solves the following optimization problem:
 
-\[ J = \sum_{i,j=1}^{V} f(X_{ij}) ( w_i^T w_j + b_i + b_j - \log X_{ij} )^2 \]
+$$ J = \sum_{i,j=1}^{V} f(X_{ij}) ( w_i^T w_j + b_i + b_j - \log X_{ij} )^2 $$
 
 where:
-- \(X_{ij}\) represents the co-occurrence count between words \(i\) and \(j\),
-- \(w_i\) and \(w_j\) are the word vectors being trained,
-- \(b_i\) and \(b_j\) are bias terms,
-- \(f(X_{ij})\) is a weighting function to balance frequent and infrequent co-occurrences.
+- $X_{ij}$ represents the co-occurrence count between words $i$ and $j$
+- $w_i$ and $w_j$ are the word vectors being trained
+- $b_i$ and $b_j$ are bias terms
+- $f(X_{ij})$ is a weighting function to balance frequent and infrequent co-occurrences
+
+
 
 By factoring the logarithm of co-occurrence probabilities, GLoVe captures **meaningful semantic relationships** between words. The model assigns similar vector representations to words that frequently co-occur in similar contexts, thereby encoding syntactic and semantic similarities within the embedding space.
 
