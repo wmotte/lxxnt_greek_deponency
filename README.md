@@ -1,6 +1,6 @@
-# Quantitative Analysis of the ‘Deponency’ in Biblical Greek
+# Quantitative Analysis of the ‘Deponency’ in LXX-NT Greek
 
-This repository contains the input data, scripts and Suppl. Tables and Figures from a study that employs distributional linguistics, a newly introduced technique to examine the controversial concept of verbal ‘deponency’ in Biblical Greek. 
+This repository contains the input data, scripts and Suppl. Tables and Figures from a study that employs distributional linguistics, a newly introduced technique to examine the controversial concept of verbal ‘deponency’ in LXX-NT (koine) Greek. 
 
 Renaissance grammarians introduced ‘deponency’ as an additional classifier to the traditional voice paradigm (active, middle, passive) to account for verbs exhibiting middle-passive morphology with active interpretation. 
 
@@ -13,7 +13,7 @@ These findings suggest that Renaissance grammatical insights merit reconsiderati
 
 ### Background and Significance
 
-The study employs **distributional analysis**, a quantitative linguistic method, to investigate the debated concept of **deponency** in Biblical Greek. Traditional grammatical approaches have long struggled with the classification of deponent verbs—those that exhibit middle or passive morphology but are interpreted with active meaning. While contemporary scholars often advocate for the elimination of deponency as an unnecessary Latin-based construct, this study challenges that position by utilizing corpus-wide **computational analysis** to detect systematic grammatical patterns.
+The study employs **distributional analysis**, a quantitative linguistic method, to investigate the debated concept of **deponency** in LXX-NT Greek. Traditional grammatical approaches have long struggled with the classification of deponent verbs—those that exhibit middle or passive morphology but are interpreted with active meaning. While contemporary scholars often advocate for the elimination of deponency as an unnecessary Latin-based construct, this study challenges that position by utilizing corpus-wide **computational analysis** to detect systematic grammatical patterns.
 
 Historically, the concept of deponency was introduced by **Renaissance grammarians** who sought to impose Latin grammatical structures onto Greek, leading to the classification of certain middle-voice verbs as 'deponent'. Modern scholarship, particularly from the late 20th and early 21st centuries, has called this classification into question, arguing that the Greek middle voice itself is poorly understood and that many so-called deponent verbs may be better analyzed as authentic middle forms. However, this critique has largely been based on qualitative and interpretive analyses, without large-scale empirical validation. 
 
