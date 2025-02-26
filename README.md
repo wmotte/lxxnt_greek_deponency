@@ -45,6 +45,16 @@ In the context of this study, the **LXX-NT corpus** was processed using the GLoV
 
 By leveraging GLoVe embeddings, this study provides an **empirical, corpus-wide validation** of deponency as a potential grammatical category, countering the prevailing scholarly consensus that it should be discarded. The approach also highlights the importance of **quantitative methods** in addressing long-standing linguistic debates. By prioritizing grammatical distribution over semantic intuition, this study provides **a reproducible, data-driven framework** for analyzing voice distinctions in LXX-NT Greek. Future research could refine these findings by integrating **probabilistic modeling** to express deponency as a graded rather than binary category, potentially reconciling traditional and modern perspectives on Greek voice morphology.
 
+### Literature on semantics and vector embedding
+
+For an in-depth understanding of vector semantics and embeddings, check Chapter 6 of *Speech and Language Processing* by Jurafsky and Martin [^1]. Additionally, Wishart's work provides a readable application of vector embeddings in Koine Greek semantics [^2].
+
+
+## References
+
+[^1]: Jurafsky, D., & Martin, J. H. (2025). *Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models* (3rd ed.). Retrieved from https://web.stanford.edu/~jurafsky/slp3/6.pdf
+
+[^2]: Wishart, R. A. (2018). *Hierarchical and Distributional Lexical Field Theory: A Critical and Empirical Development of Louw and Nida’s Semantic Domain Model*. International Journal of Lexicography, 31(4), 394–419. https://doi.org/10.1093/ijl/ecy015
 
 
 
